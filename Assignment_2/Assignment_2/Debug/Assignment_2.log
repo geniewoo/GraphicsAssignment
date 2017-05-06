@@ -1,0 +1,7 @@
+﻿  SimpleScene.cpp
+c:\users\psw10\documents\visual studio 2017\projects\assignment_2\assignment_2\simplescene.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\psw10\documents\visual studio 2017\projects\assignment_2\assignment_2\simplescene.cpp(309): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\psw10\documents\visual studio 2017\projects\assignment_2\assignment_2\simplescene.cpp(486): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\psw10\documents\visual studio 2017\projects\assignment_2\assignment_2\simplescene.cpp(487): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+  Assignment_2.vcxproj -> c:\users\psw10\documents\visual studio 2017\Projects\Assignment_2\Debug\Assignment_2.exe
+  Assignment_2.vcxproj -> c:\users\psw10\documents\visual studio 2017\Projects\Assignment_2\Debug\Assignment_2.pdb (Partial PDB)
